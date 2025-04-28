@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942553012610",
+    "project_id": "gym-crud-f1c19",
+    "storage_bucket": "gym-crud-f1c19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942553012610:android:3b40773dd70f7e2982579b",
+        "android_client_info": {
+          "package_name": "com.example.gym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5A2McTe1BqvDN6banCld6Vnq8pqajzAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
